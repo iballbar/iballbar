@@ -1,5 +1,6 @@
 ### Hi there I'm Saranyu 👋
 
+----
 
 
 ## 📊 Github Stats
@@ -18,15 +19,6 @@
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/iballbar"><img alt="iBallbar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iballbar&custom_title=iBallbar's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 
 <!--
 **iballbar/iballbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
